@@ -1,11 +1,11 @@
-# Как начать инвестировать
+# How to Start Investing
 
-Начать инвестировать с нашим фондом очень просто. Вот шаги, которые нужно выполнить:
+Getting started with our fund is very simple. Here are the steps you need to follow:
 
-1. **Подключите телеграм аккаунт** в нашем боте.
-2. **Подключите кошелек** встроенные в телеграм Wallet, TonKeeper или TonHub.
-3. **Выберите фонд**: выбире интересующий вас Фонд.
-4. **Выберите актив и укажите сумму**: Вам не нужно вкладывать сразу много, начать можно с небольшой суммы и любого актива, даже с HMST.
-5. **Подтвердите транзакцию**: После подтверждения ваши средства автоматически распределятся по активам ETF, а в замен вы получи токен-расписку.
+1. **Connect your Telegram account** in our bot.
+2. **Link your wallet** using the integrated Telegram Wallet, TonKeeper, or TonHub.
+3. **Choose a fund**: Select the fund that interests you.
+4. **Select an asset and specify the amount**: You don’t need to invest a large amount right away — you can start with a small sum and any asset, even HMST.
+5. **Confirm the transaction**: After confirmation, your funds will automatically be allocated across the ETF assets, and in return, you will receive a receipt token.
 
-После этого вы станете владельцем доли в нашем фонде и сможете следить за изменениями стоимости ваших активов в нашем приложении.
+After this, you will become a shareholder in our fund and can monitor changes in the value of your assets through our application.

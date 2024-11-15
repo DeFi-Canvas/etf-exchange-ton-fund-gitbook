@@ -1,15 +1,15 @@
-# Риски и рекомендации
+# Risks and Recommendations
 
-Любые инвестиции связаны с рисками, и наш фонд не является исключением. Важно помнить:
+All investments carry risks, and we are no exception. It’s important to remember:
 
-- **Риски потерь**: Стоимость активов может изменяться, что может привести как к росту, так и к падению ваших инвестиций.
-- **Нестабильность рынка**: Криптовалютный рынок известен своей волатильностью, поэтому будьте готовы к изменениям в цене.
-- **Долгосрочная перспектива**: Инвестиции через ETF лучше рассматривать как долгосрочные, чтобы минимизировать влияние краткосрочных колебаний.
-- **Риски контрагентов**: Имеется риск ошибки у контрагента.
-- **Риски Смарт-контрактов**: Наши контракты прошли всесторонний аудит, который подвтердил их надежность, что не гарантирует 100% защиту от ошибок.
+- **Risk of Loss**: The value of assets can fluctuate, which may lead to both gains and losses in your investments.
+- **Market Instability**: The cryptocurrency market is known for its volatility, so be prepared for price changes.
+- **Long-Term Perspective**: Investments through indices are better viewed as long-term to minimize the impact of short-term fluctuations.
+- **Counterparty Risks**: There is always a risk of errors from counterparties.
+- **Smart Contract Risks**: While our smart contracts undergo thorough audits, even that cannot guarantee 100% protection against errors.
 
-Рекомендации:
-1. Инвестируйте только те средства, которые готовы потерять.
-2. Изучите рынок и наши отчеты перед инвестициями.
-3. Начните с небольшой суммы, если вы новичок.
-4. Если вам необходим индиввидуальное решение - напишите нам.
+### Recommendations:
+1. Only invest funds that you are prepared to lose.
+2. Research the market and assets before investing.
+3. Start with a small amount if you’re a beginner.
+4. If you need a personalized solution, [contact us](contacts.md).

@@ -1,9 +1,9 @@
-# Контакты и поддержка
+# Our Resources
 
-Если у вас возникли вопросы или вам нужна помощь, свяжитесь с нашей службой поддержки:
+If you have any questions or need assistance, feel free to reach out to us:
 
-- Email: support@blockchainetf.com
-- Телефон: +123456789
-- Чат поддержки: доступен на сайте
+- Channel: [DeFi Canvas](https://t.me/DeFiCanvas)
+- Telegram: [holstenero](https://t.me/Holstenero)
+- Telegram bot: [Telegram bot](https://t.me/DeFiCanvas_bot)
 
-Мы всегда рады помочь вам с любыми вопросами и предложениями.
+We’re always happy to help with any inquiries and open to considering your suggestions.
