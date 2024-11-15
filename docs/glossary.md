@@ -1,13 +1,15 @@
-# Глоссарий
+# Glossary
 
-**Актив** — это то, что вы покупаете для инвестиций. Это может быть акция, криптовалюта или другой финансовый инструмент.
+**Asset** — can be a cryptocurrency, token, or other financial instrument. <a name="актив"></a>
 
-**Блокчейн** — децентрализованная база данных, которая записывает транзакции.
+**The Open Network** — a blockchain associated with Telegram. <a name="тон-блокчейн"></a>
 
-**ETF (Биржевой фонд)** — это фонд, который состоит из нескольких активов и торгуется на бирже.
+**Fund** — an instrument that consists of multiple assets in specific proportions and tracks their performance. <a name="etf"></a>
 
-**Волатильность** — это колебания цены актива за определенный период времени.
+**TVL or NAV** — the net asset value within an Index. <a name="tvl"></a>
 
-**Диверсификация** — это распределение инвестиций между разными активами для снижения рисков.
+**Custodial storage** — a method of storing digital assets where a third party (custodian) manages your assets on your behalf. This is commonly used in traditional financial institutions. <a name="кастодиальное-хранение"></a>
 
-**СЧА** - Стоимость чистых активов Фонда.
+**Non-custodial storage** — a method of storing digital assets where the user manages their funds independently. This approach requires responsibility from the user. <a name="не-кастодиальное-хранение"></a>
+
+**LP token (liquidity provider token)** — a token issued to users for providing their funds in exchange instruments. These tokens represent a user's share and can be used to earn fees or participate in other financial products. <a name="лп-токен"></a>
