@@ -1,10 +1,8 @@
-# Introduction
+# Welcome to DeFi Canvas
 
-Welcome to the documentation for the [DeFi Canvas](https://t.me/DeFiCanvas) project. We provide access to digital financial products such as deposits, loans, liquidity provision, exchanges, and investments in various indices.
+## The intelligent broker 
 
-We aim to offer services to a wide range of participants, for example:
-- **Beginners** will have access to a simple app for investing without the need for a crypto wallet.
-- **Experienced investors** can utilize advanced tools.
-- **Institutional participants** can create complex strategies.
+[DeFi Canvas](https://t.me/DeFiCanvas) is an easy-to-use application that unite the power of blockchain technology and LLM models. 
+DeFi Canvas designed for TON ecosystem and provide intelligent access to decentralised finance. 
 
-Our goal is to simplify the investment process, making the world of cryptocurrencies easier, clearer, and more accessible for everyone.
+To start open DeFi Canvas [Telegram bot](https://t.me/DeFiCanvas_bot) and launch the application.
