@@ -7,4 +7,4 @@
 * [Контакты](docs/contacts.md)
 * [Риски](docs/risks.md)
 * [Глоссарий](docs/glossary.md) 
-* [Частые вопросы(FAQ)](docs/faq.md)
+* [Частые вопросы (FAQ)](docs/faq.md)
