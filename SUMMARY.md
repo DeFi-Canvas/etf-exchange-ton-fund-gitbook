@@ -1,11 +1,10 @@
-# Summary
+# Общее
 
-* [Introduction](docs/introduction.md)
-* [Core elements](docs/core_elements.md)
-* [Scenarios](docs/scenarios.md)
- * [Deposit](docs/how-to-deposit.md)
-* [Instructions](docs/instructions.md)
-* [Contacts](docs/contacts.md)
-* [Risks](docs/risks.md)
-* [Glossary](docs/glossary.md) 
-* [FAQ](docs/faq.md)
+* [О проекте](docs/introduction.md)
+* [Ключевые особенности](docs/core_elements.md)
+* [Как использовать](docs/how-it-works.md)
+ * [Использование ИИ: торговля и уведомления](docs/how-to-swap.md)
+* [Контакты](docs/contacts.md)
+* [Риски](docs/risks.md)
+* [Глоссарий](docs/glossary.md) 
+* [Частые вопросы(FAQ)](docs/faq.md)

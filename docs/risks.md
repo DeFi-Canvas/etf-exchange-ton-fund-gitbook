@@ -1,15 +1,18 @@
-# Risks and Recommendations
+# Риски и рекомендации
 
-All investments carry risks, and we are no exception. It’s important to remember:
+Любые инвестиции сопряжены с рисками, и наш продукт не исключение. Обратите внимание на следующие моменты:
 
-- **Risk of Loss**: The value of assets can fluctuate, which may lead to both gains and losses in your investments.
-- **Market Instability**: The cryptocurrency market is known for its volatility, so be prepared for price changes.
-- **Long-Term Perspective**: Investments through indices are better viewed as long-term to minimize the impact of short-term fluctuations.
-- **Counterparty Risks**: There is always a risk of errors from counterparties.
-- **Smart Contract Risks**: While our smart contracts undergo thorough audits, even that cannot guarantee 100% protection against errors.
+- **Риск убытков:** стоимость активов может как расти, так и падать, что приводит к потерям.
+- **Волатильность рынка:** криптовалюты известны резкими и непредсказуемыми колебаниями цен.
+- **Риск контрагентов:** возможны технические сбои или недобросовестные действия третьих лиц.
+- **Риск ИИ-ассистента:** несмотря на тщательную настройку, агент может выдать неточные или ошибочные рекомендации.
+- **Инфраструктурные риски:** мы уделяем безопасности максимум внимания, но пока не провели независимый аудит.
 
-### Recommendations:
-1. Only invest funds that you are prepared to lose.
-2. Research the market and assets before investing.
-3. Start with a small amount if you’re a beginner.
-4. If you need a personalized solution, [contact us](contacts.md).
+---
+
+## Рекомендации
+
+1. **Инвестируйте только те суммы, которые вы готовы полностью потерять.**
+2. **Изучайте рынок и активы перед вложением средств.**
+3. **Начинайте с небольших сумм, особенно если вы новичок.**
+4. **Для индивидуальной консультации или особых задач [свяжитесь с нами](contacts.md).**  

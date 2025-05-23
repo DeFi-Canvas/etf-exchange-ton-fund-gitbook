@@ -1,9 +1,8 @@
-# Our Resources
+# Наши ресурсы
 
-If you have any questions or need assistance, feel free to reach out to us:
+Если у вас возникли вопросы или вам нужна помощь, свяжитесь с нами:
 
-- Channel: [DeFi Canvas](https://t.me/DeFiCanvas)
-- Telegram: [holstenero](https://t.me/Holstenero)
-- Telegram bot: [Telegram bot](https://t.me/DeFiCanvas_bot)
+- Канал: [DeFi Canvas](https://t.me/DeFiCanvas)
+- Телеграм: [holstenero](https://t.me/Holstenero)
 
-We’re always happy to help with any inquiries and open to considering your suggestions.
+Мы всегда рады помочь вам с любыми вопросами и готовы рассмотреть предложениями.

@@ -1,38 +1,28 @@
-# Core elements
+# Ключевые особенности
 
-### Intelligent Agents
-- Natural language processing for seamless interactions across DeFi and blockchain
-- On-demand market data insights based on user requests
-- Automated portfolio management driven by user-defined conditions
-- Coordinated agent swarms targeting specific actions or goals
+### ИИ-агенты
+- Обработка естественного языка для взаимодействия с DeFi и блокчейн-сервисами
+- Мгновенный доступ к актуальной рыночной информации и аналитике по запросу
+- Автоматизация действий по пользовательским правилам
 
-Benefit: These intelligent agents reduce manual effort, streamline decision-making, and enable personalized automation.
+**Преимущества:** ИИ-агенты берут на себя рутинные задачи, ускоряют принятие решений и обеспечивают автоматизацию под ваши нужды.
 
-### Blockchain integration
-- Intelligent transaction state management for real-time tracking and optimization
-- Direct integration with top protocols and resources
-- Verifiable, privacy-focused operations to protect user data
+---
 
-Benefit: Our secure and optimized blockchain infrastructure ensures reliability and privacy throughout every transaction.
+### Интеграция с блокчейнами
+- Прямая поддержка ведущих DeFi-протоколов и сервисов
+- Быстрое onchain исполнение и поручений
+- Валидация корректности операций в реальном времени
+- Агностик: несколько блокчейнов в одном интерфейсе
 
-### Wide range of strategies
-- Create unique market strategies and customize them to match your risk profile
-- Follow expert tactics with proven historical performance
-- Access analytics and performance metrics to refine strategies over time
+**Преимущества:** Безопасная и оптимизированная инфраструктура гарантирует надёжность и исполнение каждой транзакции.
 
-Benefit: Whether you’re a seasoned pro or just starting out, our versatile strategies empower you to explore diverse opportunities in DeFi.
+---
 
-### Flexible custody option
-- Secure custodian storage for private keys, offering institutional-grade protection
-- Begin without a dedicated crypto wallet through simplified onboarding
-- Seamless asset management under our custodial framework—no need to handle private keys yourself
-
-Benefit: Enjoy an easy and secure DeFi experience, focusing on strategy while we handle robust key management and security measures.
-
-### Integrated protocols
-- Dedust (DEX)
-- Ston fi (DEX)
-- Evaa (Lending & Borrowing protocol)
-- Storm (Perp dex derivatives)
-- CoinMarketCap (Market data)
-- And many more…
+### Поддерживаемые протоколы
+- **Dedust** (DEX)
+- **Ston.fi** (DEX)
+- **Storm** (Perp-деривативы)
+- **CoinMarketCap** (рыночные данные)
+- **Twitter** (социальные сигналы)
+- …и многие другие  

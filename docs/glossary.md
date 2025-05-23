@@ -1,18 +1,11 @@
-# Glossary
+# Глоссарий
 
-**Asset** — can be a cryptocurrency, token, or other financial instrument. <a name="актив"></a>
+**Актив** — это может быть криптовалюта, токен или другой финансовый инструмент. <a name="актив"></a>
 
-**DeFi** — decentralized finance. <a name="tvl"></a>
+**The Open Network** — блокчейн, связанный с Телеграм. <a name="тон-блокчейн"></a>
 
-**The Open Network** — a blockchain associated with Telegram. <a name="тон-блокчейн"></a>
+**Кастодиальное хранение** — это способ хранения цифровых активов, при котором третья сторона (кастодиан) управляет вашими активами от вашего имени. Обычно используется в традиционных финансовых учреждениях. <a name="кастодиальное-хранение"></a>
 
-**TVL** — total value locked. <a name="tvl"></a>
+**Не кастодиальное хранение** — это метод хранения цифровых активов, при котором пользователь самостоятельно управляет своими средствами. Такой подход требует ответственности от пользователя. <a name="не-кастодиальное-хранение"></a>
 
-**Strategy** — an instrument that consists of multiple assets in specific proportions and tracks their performance. <a name="etf"></a>
-
-**NAV** — the net asset value within an Index. <a name="tvl"></a>
-
-**Custodial storage** — a method of storing digital assets where a third party (custodian) manages your assets on your behalf. This is commonly used in traditional financial institutions. <a name="кастодиальное-хранение"></a>
-
-**LP token (liquidity provider token)** — a token issued to users for providing their funds in exchange instruments. These tokens represent a user's share and can be used to earn fees or participate in other financial products. <a name="лп-токен"></a>
-
+**ЛП токен (liquidity provider token)** — это токен, который выдается пользователям за размещение своих средств в биржевых инструментах. Эти токены представляют долю пользователя и могут использоваться для получения комиссий или участия в других финансовых продуктах. <a name="лп-токен"></a>
