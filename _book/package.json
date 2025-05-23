@@ -1,15 +1,17 @@
 {
-  "name": "my-gitbook",
+  "name": "etf-exchange-ton-fund-gitbook",
   "version": "1.0.0",
-  "description": "A GitBook project",
-  "main": "index.js",
+  "description": "DeFi Canvas documentation",
   "scripts": {
-    "build": "gitbook build",
-    "deploy": "gh-pages -d _book"
+    "clean": "rm -rf docs/*",
+    "build": "honkit build docs_src docs",
+    "predeploy": "npm run clean && npm run build",
+    "deploy": "gh-pages -d docs -r https://github.com/defi-canvas/etf-exchange-ton-fund-gitbook.git"
   },
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
+    "honkit": "^3.0.0",
     "gh-pages": "^3.2.3"
   }
 }
