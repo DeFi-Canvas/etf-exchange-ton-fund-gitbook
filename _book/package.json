@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "DeFi Canvas documentation",
   "scripts": {
-    "clean": "rm -rf docs/*",
-    "build": "honkit build docs_src docs",
-    "predeploy": "npm run clean && npm run build",
-    "deploy": "gh-pages -d docs -r https://github.com/defi-canvas/etf-exchange-ton-fund-gitbook.git"
+      "clean": "rm -rf docs/*",
+      "build": "honkit build docs_src docs"
   },
   "author": "Your Name",
   "license": "MIT",
